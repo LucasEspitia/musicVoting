@@ -1,0 +1,15 @@
+Salsa,Vivir mi Vida,Marc Anthony, 3.0 
+Salsa,Valio la Pena,Marc Anthony, Valio la Pena
+Salsa,Lloraras,Oscar D'Leon, Oscar D'Leon En Concierto
+Bachata,Propuesta Indecente,Romeo Santos, Formula Vol 2
+Bachata,Obsesion,Aventura, We Broke the Rules
+Bachata,Bachata en Fukuoka,Juan Luis Guerra, A Son de Guerra
+Reggaeton,Gasolina,Daddy Yankee, Barrio Fino
+Reggaeton,Despacito,Luis Fonsi ft. Daddy Yankee, Vida
+Reggaeton,Dura,Daddy Yankee, El Disco Duro
+Merengue,Suavemente,Elvis Crespo, Suavemente
+Merengue,La Bilirrubina,Juan Luis Guerra, Bachata Rosa
+Merengue,Te Compro Tu Novia,Ramon Orlando, Diferente
+Samba,Mas Que Nada,Sergio Mendes ft. Black Eyed Peas, Timeless
+Samba,Aguas de Marco,Elis Regina & Tom Jobim, Elis & Tom
+Samba,Aquarela do Brasil,Gal Costa, Gal
