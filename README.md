@@ -1,4 +1,4 @@
-## Music Voting
+# Music Voting
 ## Languages
 - Java
 - JavaFX
