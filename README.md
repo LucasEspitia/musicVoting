@@ -17,5 +17,5 @@ Get voting count.
 Get the podium of the most voted songs.
 
 ### Admin Mode
-User: Lucas
-Password: 123456789a
+- User: Lucas
+- Password: 123456789a
